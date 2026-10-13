@@ -1,32 +1,21 @@
 <div align="center">
-    <img src="banner.png" alt="LDT Toolkit banner">
+    <img src="banner.png" alt="Long-Toolkit banner">
 </div>
 
-# ❝What is LDT Toolkit, in layman's terms?
+# ❝ Who are we, Long-Toolkit?
 
-**LDT Toolkit** (Longitudinal Depression Toolkit) is an open toolkit for building longitudinal mental health workflows that combine data handling, analytics, and reproducible research utilities. Basically, LDT Toolkit helps researchers and clinical teams organise depression-related data over time and turn it into Ml analyses, without rebuilding the same pipeline pieces from scratch.  An `LDT Toolkit` workflow can support structured analysis on repeated patient observations, reducing ad-hoc scripting and improving reproducibility.
+**Long-Toolkit** was founded by **Dr Alex Kwong and Simon Provost** during Simon's research internship with the **Lifecourse Epidemiology and Psychiatry Research Group (LEAP)** at the **University of Edinburgh**. Since then, PhD students **Bianca Branco, Honghui Chen and Isaac Tassella** have joined discussions, development or the toolkit's use at the University of Edinburgh, all supervised by **Dr Alex Kwong**.
 
-LDT-Toolkit is a `Python` based API toolset, and `Go` Command Line Interface for NO-CODE! You should start at [ldt-toolkit](https://github.com/Longitudinal-Depression-Toolkit/ldt-toolkit); download the toolkit and the CLI; then finally play with it!
-# ❝Come Contribute to LDT Toolkit
+We build **open-source Python toolkits for longitudinal data** to help researchers prepare and preprocess repeated measures, compare **standard and longitudinal machine learning against a statistical baseline** under one shared protocol, and explain the resulting predictions. A **no-code command-line interface** makes these tools accessible without writing Python.
 
-_Whatever your field, your contribution is welcome._ You can contribute in multiple ways:
-- add reusable modules and CLI commands
-- improve documentation and examples
-- contribute tests, benchmarks, and validation utilities
-- report bugs and suggest features
-- **And more importantly, share your study-specific reproducible scripts for longitudinal depression research**
+Come give it a try: explore the [documentation](https://long-toolkit.readthedocs.io/en/latest/) and the [main repository](https://github.com/Long-Toolkit/long-toolkit). Available on `macOS` and `Linux`, and on `Windows` (via Docker).
 
-If you are getting started, open an issue or discussion in one of the LDT Toolkit repositories and we can help you pick a good first contribution.
+# ❝ Reach out if you would like to contribute ideas, requests or features!
 
->[!IMPORTANT]
-> LDT Toolkit is under active development. Interfaces will evolve quickly while we stabilise the ecosystem.
+_👉 Whoever you are, you are welcome!_
 
-# ❝Research Group
+Whether you have a research question, a feature request, a bug report or a new tool to contribute, we would love to hear from you. [Open an issue](https://github.com/Long-Toolkit/long-toolkit/issues) or [contact Alex](mailto:akwong@ed.ac.uk) to discuss your ideas.
 
-LDT-Toolkit emerged from a ressearch internship at the Lifecourse Epidemiology and Psychiatry Research Group (LEAP) at
-the University of Edinburgh (UK); supervised by [Dr. Alex Kwong](https://edwebprofiles.ed.ac.uk/profile/dr-alex-kwong).
+Find out more about the group and its research on [LEAP's website](https://life-epi-psych.github.io/).
 
-See [LEAP's website](https://life-epi-psych.github.io) for more information about the group and their research.
-
-
-Cheers! 🥳
+Cheers! 🍻
