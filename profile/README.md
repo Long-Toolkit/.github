@@ -6,6 +6,8 @@
 
 **Long-Toolkit** was founded by **Dr Alex Kwong and Simon Provost** during Simon's research internship with the **Lifecourse Epidemiology and Psychiatry Research Group (LEAP)** at the **University of Edinburgh**. Since then, PhD students **Bianca Branco, Honghui Chen and Isaac Tassella** have joined discussions, development or the toolkit's use at the University of Edinburgh, all supervised by **Dr Alex Kwong**.
 
+Simon Provost's current affiliation is **Postdoctoral Research @ McGill University (MEDomicsLab)**. You can reach him at [simon.g.provost@mcgill.ca](mailto:simon.g.provost@mcgill.ca).
+
 We build **open-source Python toolkits for longitudinal data** to help researchers prepare and preprocess repeated measures, compare **standard and longitudinal machine learning against a statistical baseline** under one shared protocol, and explain the resulting predictions. A **no-code command-line interface** makes these tools accessible without writing Python.
 
 Come give it a try: explore the [documentation](https://long-toolkit.readthedocs.io/en/latest/) and the [main repository](https://github.com/Long-Toolkit/long-toolkit). Supports `Python 3.10` only. Available on `macOS` and `Linux`, and on `Windows` (via Docker).
