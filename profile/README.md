@@ -8,7 +8,7 @@
 
 We build **open-source Python toolkits for longitudinal data** to help researchers prepare and preprocess repeated measures, compare **standard and longitudinal machine learning against a statistical baseline** under one shared protocol, and explain the resulting predictions. A **no-code command-line interface** makes these tools accessible without writing Python.
 
-Come give it a try: explore the [documentation](https://long-toolkit.readthedocs.io/en/latest/) and the [main repository](https://github.com/Long-Toolkit/long-toolkit). Available on `macOS` and `Linux`, and on `Windows` (via Docker).
+Come give it a try: explore the [documentation](https://long-toolkit.readthedocs.io/en/latest/) and the [main repository](https://github.com/Long-Toolkit/long-toolkit). Supports `Python 3.10` only. Available on `macOS` and `Linux`, and on `Windows` (via Docker).
 
 # ❝ Reach out if you would like to contribute ideas, requests or features!
 
